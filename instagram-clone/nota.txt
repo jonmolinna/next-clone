@@ -1,0 +1,7 @@
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install @heroicons/react
+npm install -D @tailwindcss/forms
+npm install --save-dev @faker-js/faker
+npm install tailwind-scrollbar-hide
+npm install --save-dev tailwind-scrollbar
