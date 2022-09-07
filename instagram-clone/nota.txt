@@ -1,7 +1,13 @@
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 npm install @heroicons/react
-npm install -D @tailwindcss/forms
 npm install --save-dev @faker-js/faker
+npm install -D @tailwindcss/forms
 npm install tailwind-scrollbar-hide
 npm install --save-dev tailwind-scrollbar
+npm install next-auth
+npm install firebase
+
+Link de configuracion
+https://developers.google.com/identity/oauth2/web/guides/get-google-api-clientid
+https://console.cloud.google.com/apis/credentials?project=insta-2-yt-4c563

@@ -10,7 +10,7 @@ const Suggestions = () => {
                 id: i,
                 username: faker.internet.userName(),
                 avatar: faker.image.avatar(),
-                company: faker.company.companyName()
+                company: faker.company.name()
             }
         ));
 
