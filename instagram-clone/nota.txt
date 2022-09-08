@@ -7,6 +7,8 @@ npm install tailwind-scrollbar-hide
 npm install --save-dev tailwind-scrollbar
 npm install next-auth
 npm install firebase
+npm install recoil
+npm install @headlessui/react
 
 Link de configuracion
 https://developers.google.com/identity/oauth2/web/guides/get-google-api-clientid
