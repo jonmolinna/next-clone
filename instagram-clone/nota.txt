@@ -9,6 +9,7 @@ npm install next-auth
 npm install firebase
 npm install recoil
 npm install @headlessui/react
+npm install react-moment
 
 Link de configuracion
 https://developers.google.com/identity/oauth2/web/guides/get-google-api-clientid
